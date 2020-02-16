@@ -1,2 +1,2 @@
 # Linear_Regression
-Its an Supervised ML Algo.
+Its a Supervised ML Algo.
